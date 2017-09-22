@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IphoneX</string>
+    <string name="ph_n_h_i_amp_g_p">Contact developer</string>
+    <string name="m_i_th_c_m_c_amp_g_p_vui_l_ng_g_i_v_h_m_th_duongkk_dev_gmail_com">Problem? Question? Feel free to send to  me at duongkk.dev@gmail.com</string>
+    <string name="nh_gi_ng_d_ng_5">Rate App on Playstore 5★</string>
+    <string name="g_i_t_ng_l_p_tr_nh_vi_n_1_t_ch_cafe">Send to the programmer a cup of coffee</string>
+    <string name="start_iphone_x_ui">Start Iphone X UI</string>
+    <string name="if_it_s_your_first_run_permit_drawing_over_apps">If it\'s your first run, Permit drawing over apps!</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-4447279115464296/7358826213</string>
+    <string name="full_ad_unit_id2">ca-app-pub-4447279115464296/1196032107</string>
+    <string name="id_admob_app">ca-app-pub-4447279115464296~9108690450</string>
+</resources>

@@ -1,0 +1,182 @@
+{
+  "project_info": {
+    "project_number": "628929486138",
+    "firebase_url": "https://admob-app-id-1790979167.firebaseio.com",
+    "project_id": "admob-app-id-1790979167",
+    "storage_bucket": "admob-app-id-1790979167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628929486138:android:5259d73ab84caf06",
+        "android_client_info": {
+          "package_name": "com.duongkk.unitconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628929486138-eotvue98ner9600n8rh64idhg78d7p3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duongkk.unitconverter",
+            "certificate_hash": "4809b57575ca6b32b9842b2401cea8107a62a86b"
+          }
+        },
+        {
+          "client_id": "628929486138-jif1gemdue3tr2kd708qo728p0eo7a6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLi22HsKQY71jWq1IGJE2IgHeLWrgeGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628929486138:android:39b767af942bc224",
+        "android_client_info": {
+          "package_name": "com.duongkk.zingmp3lossless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628929486138-07v3fmvqboo54nh733gsj07t98mmkm5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duongkk.zingmp3lossless",
+            "certificate_hash": "3c2391de28e2e31885e143182a83835b749faf73"
+          }
+        },
+        {
+          "client_id": "628929486138-jif1gemdue3tr2kd708qo728p0eo7a6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLi22HsKQY71jWq1IGJE2IgHeLWrgeGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628929486138-jif1gemdue3tr2kd708qo728p0eo7a6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628929486138:android:4bb710551efa8008",
+        "android_client_info": {
+          "package_name": "com.duongkk.zingmp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628929486138-spn37ejsauucl8o2p69tn5hhg5p9b0vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duongkk.zingmp3",
+            "certificate_hash": "3c2391de28e2e31885e143182a83835b749faf73"
+          }
+        },
+        {
+          "client_id": "628929486138-jif1gemdue3tr2kd708qo728p0eo7a6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLi22HsKQY71jWq1IGJE2IgHeLWrgeGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628929486138-jif1gemdue3tr2kd708qo728p0eo7a6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628929486138:android:725c568d2b745885",
+        "android_client_info": {
+          "package_name": "com.duongkk.iphonex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628929486138-nb53lvhuq6bahrl30rk2fjm0i9ha57l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duongkk.iphonex",
+            "certificate_hash": "3c2391de28e2e31885e143182a83835b749faf73"
+          }
+        },
+        {
+          "client_id": "628929486138-jif1gemdue3tr2kd708qo728p0eo7a6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLi22HsKQY71jWq1IGJE2IgHeLWrgeGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628929486138-jif1gemdue3tr2kd708qo728p0eo7a6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

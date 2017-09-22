@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IphoneX</string>
+    <string name="ph_n_h_i_amp_g_p"><![CDATA[Phản hồi & góp ý]]></string>
+    <string name="m_i_th_c_m_c_amp_g_p_vui_l_ng_g_i_v_h_m_th_duongkk_dev_gmail_com"><![CDATA[Mọi thắc mắc & góp ý vui lòng gửi về hòm thư duongkk.dev@gmail.com]]></string>
+    <string name="nh_gi_ng_d_ng_5">Đánh giá ứng dụng 5★</string>
+    <string name="g_i_t_ng_l_p_tr_nh_vi_n_1_t_ch_cafe">Gửi tặng lập trình viên 1 tách cafe</string>
+    <string name="start_iphone_x_ui">Bật giao diện Iphone X UI</string>
+    <string name="if_it_s_your_first_run_permit_drawing_over_apps">Nếu đây là lần đầu tiên bật, Vui lòng cấp quyền cho ứng dụng!</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-4447279115464296/7358826213</string>
+    <string name="full_ad_unit_id2">ca-app-pub-4447279115464296/1196032107</string>
+    <string name="id_admob_app">ca-app-pub-4447279115464296~9108690450</string>
+</resources>
